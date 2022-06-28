@@ -69,7 +69,7 @@
         <div class="container">
           <div class="row">
             <div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 start-0 text-center justify-content-center flex-column">
-              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center" style="background-image: url('../assets/img/illustrations/illustration-signup.jpg'); background-size: cover;">
+              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center" style="background-image: url('https://unsplash.com/photos/8NIqTFLcFms?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'); background-size: cover;">
               </div>
             </div>
             <div class="col-xl-4 col-lg-5 col-md-7 d-flex flex-column ms-auto me-auto ms-lg-auto me-lg-5">
@@ -101,7 +101,7 @@
                     </div>
                      <div class="input-group input-group-outline mb-3">
                       <label class="form-label"></label>
-                      <input type="text" class="form-control" name="vehicle-description" placeholder="Description">
+                      <textarea class="form-control" rows="4" cols="50">Description</textarea>
                     </div>    
                     <div class="input-group input-group-outline mb-3">
                       <label class="form-label"></label>

@@ -152,28 +152,18 @@
             <div class="col-xl-4 col-lg-5 col-md-7 d-flex flex-column ms-auto">
               <div class="card card-plain">
                 <div class="card-header">
-                  <h4 class="font-weight-bolder">Add User</h4>
-                  <p class="mb-0">Fill in the form to register a new user</p>
+                  <h4 class="font-weight-bolder">Add Category</h4>
+                  <p class="mb-0">Fill in the form to add new category</p>
                 </div>
                 <div class="card-body">
                   <form role="form">
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Name</label>
+                      <label class="form-label">Category Name</label>
                       <input type="text" class="form-control">
                     </div>
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Email</label>
-                      <input type="email" class="form-control">
-                    </div>
-                    <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Password</label>
-                      <input type="password" class="form-control">
-                    </div>
-                        <label for="cars">Choose a user type:</label>
-  <select name="cars" id="cars">
-    <option value="volvo">User</option>
-    <option value="saab">Admin</option>
-  </select>                
+                      <textarea class="form-control">Description</textarea>
+                    </div>             
                     <div class="text-center">
                       <button type="button" class="btn btn-lg bg-gradient-primary btn-lg w-100 mt-4 mb-0">Submit</button>
                     </div>

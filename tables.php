@@ -41,7 +41,7 @@
     <div class="sidenav-header">
       <i class="fas fa-times p-3 cursor-pointer text-white opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
       <a class="navbar-brand m-0" href=" https://demos.creative-tim.com/material-dashboard/dashboard " target="_blank">
-        <img src="../assets/img/logo-ct.png" class="navbar-brand-img h-100" alt="main_logo">
+        <!-- <img src="../assets/img/logo-ct.png" class="navbar-brand-img h-100" alt="main_logo"> -->
         <span class="ms-1 font-weight-bold text-white">LingsCars Admin Section</span>
       </a>
     </div>
@@ -98,6 +98,24 @@
               <i class="material-icons opacity-10">assignment</i>
             </div>
             <span class="nav-link-text ms-1">Add Admin</span>
+          </a>
+        </li>
+        </li>
+             <li class="nav-item">
+          <a class="nav-link text-white " href="./vehicle.php">
+            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
+              <i class="material-icons opacity-10">assignment</i>
+            </div>
+            <span class="nav-link-text ms-1">Add Vehicle</span>
+          </a>
+        </li>
+        </li>
+             <li class="nav-item">
+          <a class="nav-link text-white " href="./category.php">
+            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
+              <i class="material-icons opacity-10">assignment</i>
+            </div>
+            <span class="nav-link-text ms-1">Add Category</span>
           </a>
         </li>
         <li class="nav-item">
@@ -428,7 +446,7 @@
           <div class="card my-4">
             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
               <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
-                <h6 class="text-white text-capitalize ps-3">Car Sales table</h6>
+                <h6 class="text-white text-capitalize ps-3">Cars Table</h6>
               </div>
             </div>
             <div class="card-body px-0 pb-2">
@@ -436,10 +454,12 @@
                 <table class="table align-items-center justify-content-center mb-0">
                   <thead>
                     <tr>
-                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Car</th>
-                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Price Costs</th>
-                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Status</th>
-                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder text-center opacity-7 ps-2">Completion</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Vehicle Model</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Price</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Quantity</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Vehicle Condition</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Serial Number</th>
+                      <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Color</th>
                       <th></th>
                     </tr>
                   </thead>
@@ -459,18 +479,27 @@
                         <p class="text-sm font-weight-bold mb-0">$2,500</p>
                       </td>
                       <td>
-                        <span class="text-xs font-weight-bold">awaiting purchase</span>
+                        <span class="text-xs font-weight-bold">5</span>
                       </td>
-                      <td class="align-middle text-center">
+                      <td>
+                        <p class="text-sm font-weight-bold mb-0">New</p>
+                      </td>
+                      <td>
+                        <p class="text-sm font-weight-bold mb-0">AE098675</p>
+                      </td>
+                      <td>
+                        <p class="text-sm font-weight-bold mb-0">Red</p>
+                      </td>
+                       <!-- <td class="align-middle text-center">
                         <div class="d-flex align-items-center justify-content-center">
-                          <span class="me-2 text-xs font-weight-bold">60%</span>
-                          <div>
+                          <span class="me-2 text-xs font-weight-bold">New</span>
+                         <div> 
                             <div class="progress">
                               <div class="progress-bar bg-gradient-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
                             </div>
-                          </div>
+                          </div> 
                         </div>
-                      </td>
+                      </td> -->
                       <td class="align-middle">
                         <button class="btn btn-link text-secondary mb-0">
                           <i class="fa fa-ellipsis-v text-xs"></i>
@@ -481,31 +510,40 @@
                       <td>
                         <div class="d-flex px-2">
                           <div>
-                            <img src="" class="avatar avatar-sm rounded-circle me-2" alt="Demio">
+                            <img src="" class="avatar avatar-sm rounded-circle me-2" alt="Prado">
                           </div>
                           <div class="my-auto">
-                            <h6 class="mb-0 text-sm">Demio</h6>
+                            <h6 class="mb-0 text-sm">Prado</h6>
                           </div>
                         </div>
                       </td>
                       <td>
-                        <p class="text-sm font-weight-bold mb-0">$5,000</p>
+                        <p class="text-sm font-weight-bold mb-0">$2,500</p>
                       </td>
                       <td>
-                        <span class="text-xs font-weight-bold">sold</span>
+                        <span class="text-xs font-weight-bold">5</span>
                       </td>
-                      <td class="align-middle text-center">
+                      <td>
+                        <p class="text-sm font-weight-bold mb-0">New</p>
+                      </td>
+                      <td>
+                        <p class="text-sm font-weight-bold mb-0">AE098675</p>
+                      </td>
+                      <td>
+                        <p class="text-sm font-weight-bold mb-0">Red</p>
+                      </td>
+                       <!-- <td class="align-middle text-center">
                         <div class="d-flex align-items-center justify-content-center">
-                          <span class="me-2 text-xs font-weight-bold">100%</span>
-                          <div>
+                          <span class="me-2 text-xs font-weight-bold">New</span>
+                         <div> 
                             <div class="progress">
-                              <div class="progress-bar bg-gradient-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div>
+                              <div class="progress-bar bg-gradient-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
                             </div>
-                          </div>
+                          </div> 
                         </div>
-                      </td>
+                      </td> -->
                       <td class="align-middle">
-                        <button class="btn btn-link text-secondary mb-0" aria-haspopup="true" aria-expanded="false">
+                        <button class="btn btn-link text-secondary mb-0">
                           <i class="fa fa-ellipsis-v text-xs"></i>
                         </button>
                       </td>
