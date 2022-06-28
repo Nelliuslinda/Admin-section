@@ -48,7 +48,7 @@
     <div class="collapse navbar-collapse  w-auto " id="sidenav-collapse-main">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-white active bg-gradient-primary" href="./dashboard.html">
+          <a class="nav-link text-white active bg-gradient-primary" href="./dashboard.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">dashboard</i>
             </div>
@@ -56,7 +56,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="./tables.html">
+          <a class="nav-link text-white " href="./tables.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">table_view</i>
             </div>
@@ -64,7 +64,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="./billing.html">
+          <a class="nav-link text-white " href="./billing.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">receipt_long</i>
             </div>
@@ -72,19 +72,19 @@
           </a>
         </li>
         
-        <li class="nav-item">
-          <a class="nav-link text-white " href="./notifications.html">
+        <!-- <li class="nav-item">
+          <a class="nav-link text-white " href="./notifications.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">notifications</i>
             </div>
             <span class="nav-link-text ms-1">Notifications</span>
           </a>
-        </li>
+        </li> -->
         <li class="nav-item mt-3">
           <h6 class="ps-4 ms-2 text-uppercase text-xs text-white font-weight-bolder opacity-8">Account pages</h6>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="./profile.html">
+          <a class="nav-link text-white " href="./profile.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">person</i>
             </div>
@@ -92,7 +92,7 @@
           </a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link text-white " href="./adduser.html">
+          <a class="nav-link text-white " href="./adduser.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">assignment</i>
             </div>
@@ -100,7 +100,7 @@
           </a>
         </li>
              <li class="nav-item">
-          <a class="nav-link text-white " href="./vehicle.html">
+          <a class="nav-link text-white " href="./vehicle.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">assignment</i>
             </div>
@@ -108,7 +108,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="./logout.html">
+          <a class="nav-link text-white " href="./logout.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">login</i>
             </div>
@@ -127,7 +127,7 @@
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg blur border-radius-lg top-0 z-index-3 shadow position-absolute mt-4 py-2 start-0 end-0 mx-4">
           <div class="container-fluid ps-2 pe-0">
-            <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 " href="./dashboard.html">
+            <a class="navbar-brand font-weight-bolder ms-lg-0 ms-3 " href="./dashboard.php">
               Lingscars Admin Panel
             </a>
             <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
