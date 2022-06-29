@@ -273,11 +273,11 @@
                       <td>
                         <div class="d-flex px-2 py-1">
                           <div>
-                            <img src="/assets/img/user.png" class="avatar avatar-sm me-3 border-radius-lg" alt="user1">
+                            <img src="../Admin-section/assets/img/elizeu-dias-2EGNqazbAMk-unsplash.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user1">
                           </div>
                           <div class="d-flex flex-column justify-content-center">
                             <h6 class="mb-0 text-sm">John Michael</h6>
-                            <p class="text-xs text-secondary mb-0">john@creative-tim.com</p>
+                            <p class="text-xs text-secondary mb-0">john@gmail.com</p>
                           </div>
                         </div>
                       </td>
@@ -300,11 +300,11 @@
                       <td>
                         <div class="d-flex px-2 py-1">
                           <div>
-                            <img src="../assets/img/team-3.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user2">
+                            <img src="../Admin-section/assets/img/eye-for-ebony-aZzXKGcyWqk-unsplash.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user2">
                           </div>
                           <div class="d-flex flex-column justify-content-center">
                             <h6 class="mb-0 text-sm">Alexa Liras</h6>
-                            <p class="text-xs text-secondary mb-0">alexa@creative-tim.com</p>
+                            <p class="text-xs text-secondary mb-0">alexa@gmail.com</p>
                           </div>
                         </div>
                       </td>
@@ -328,11 +328,11 @@
                       <td>
                         <div class="d-flex px-2 py-1">
                           <div>
-                            <img src="../assets/img/team-4.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user3">
+                            <img src="../Admin-section/assets/img/eye-for-ebony-OeXcIHFwtsM-unsplash.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user3">
                           </div>
                           <div class="d-flex flex-column justify-content-center">
                             <h6 class="mb-0 text-sm">Laurent Perrier</h6>
-                            <p class="text-xs text-secondary mb-0">laurent@creative-tim.com</p>
+                            <p class="text-xs text-secondary mb-0">laurent@gmail.com</p>
                           </div>
                         </div>
                       </td>
@@ -355,11 +355,11 @@
                       <td>
                         <div class="d-flex px-2 py-1">
                           <div>
-                            <img src="../assets/img/team-3.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user4">
+                            <img src="../Admin-section/assets/img/eye-for-ebony-KgsXAHYWcU8-unsplash.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user4">
                           </div>
                           <div class="d-flex flex-column justify-content-center">
                             <h6 class="mb-0 text-sm">Michael Levi</h6>
-                            <p class="text-xs text-secondary mb-0">michael@creative-tim.com</p>
+                            <p class="text-xs text-secondary mb-0">michael@gmail.com</p>
                           </div>
                         </div>
                       </td>
@@ -382,11 +382,11 @@
                       <td>
                         <div class="d-flex px-2 py-1">
                           <div>
-                            <img src="../assets/img/team-2.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user5">
+                            <img src="../Admin-section/assets/img/tamarcus-brown-29pFbI_D1Sc-unsplash.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user5">
                           </div>
                           <div class="d-flex flex-column justify-content-center">
                             <h6 class="mb-0 text-sm">Richard Gran</h6>
-                            <p class="text-xs text-secondary mb-0">richard@creative-tim.com</p>
+                            <p class="text-xs text-secondary mb-0">richard@gmail.com</p>
                           </div>
                         </div>
                       </td>
@@ -410,11 +410,11 @@
                       <td>
                         <div class="d-flex px-2 py-1">
                           <div>
-                            <img src="../assets/img/team-4.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user6">
+                            <img src="../Admin-section/assets/img/shawnee-d-wOe_VGJe3TE-unsplash.jpg" class="avatar avatar-sm me-3 border-radius-lg" alt="user6">
                           </div>
                           <div class="d-flex flex-column justify-content-center">
-                            <h6 class="mb-0 text-sm">Miriam Eric</h6>
-                            <p class="text-xs text-secondary mb-0">miriam@creative-tim.com</p>
+                            <h6 class="mb-0 text-sm">Miriam Elizabeth</h6>
+                            <p class="text-xs text-secondary mb-0">miriam@gmail.com</p>
                           </div>
                         </div>
                       </td>
