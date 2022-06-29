@@ -468,7 +468,7 @@
                       <td>
                         <div class="d-flex px-2">
                           <div>
-                            <img src="" class="avatar avatar-sm rounded-circle me-2" alt="Prado">
+                            <img src="../Admin-section/assets/img/ladimir-ladroid-_2vtmKYmsW4-unsplash.jpg" class="avatar avatar-sm rounded-circle me-2" alt="Prado">
                           </div>
                           <div class="my-auto">
                             <h6 class="mb-0 text-sm">Prado</h6>
@@ -510,7 +510,7 @@
                       <td>
                         <div class="d-flex px-2">
                           <div>
-                            <img src="" class="avatar avatar-sm rounded-circle me-2" alt="Prado">
+                            <img src="../Admin-section/assets/img/ladimir-ladroid-_2vtmKYmsW4-unsplash.jpg" class="avatar avatar-sm rounded-circle me-2" alt="Prado">
                           </div>
                           <div class="my-auto">
                             <h6 class="mb-0 text-sm">Prado</h6>

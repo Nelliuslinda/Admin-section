@@ -363,14 +363,14 @@
                 </div>
                 <div class="card-body p-3">
                   <p class="text-sm">
-                    Hi, I’m Alec Thompson, Decisions: If you can’t decide, the answer is no. If two equally difficult paths, choose the one more painful in the short term (pain avoidance is creating an illusion of equality).
+                    Hi, I’m Mark Mutuma. CEO of LingsCar Car Dealership
                   </p>
                   <hr class="horizontal gray-light my-4">
                   <ul class="list-group">
-                    <li class="list-group-item border-0 ps-0 pt-0 text-sm"><strong class="text-dark">Full Name:</strong> &nbsp; Alec M. Thompson</li>
-                    <li class="list-group-item border-0 ps-0 text-sm"><strong class="text-dark">Mobile:</strong> &nbsp; (44) 123 1234 123</li>
-                    <li class="list-group-item border-0 ps-0 text-sm"><strong class="text-dark">Email:</strong> &nbsp; alecthompson@mail.com</li>
-                    <li class="list-group-item border-0 ps-0 text-sm"><strong class="text-dark">Location:</strong> &nbsp; USA</li>
+                    <li class="list-group-item border-0 ps-0 pt-0 text-sm"><strong class="text-dark">Full Name:</strong> &nbsp; Mark Mutuma</li>
+                    <li class="list-group-item border-0 ps-0 text-sm"><strong class="text-dark">Mobile:</strong> &nbsp; +254 7200 000 000</li>
+                    <li class="list-group-item border-0 ps-0 text-sm"><strong class="text-dark">Email:</strong> &nbsp; markmutuma@gmail.com</li>
+                    <li class="list-group-item border-0 ps-0 text-sm"><strong class="text-dark">Location:</strong> &nbsp; Kenya</li>
                     <li class="list-group-item border-0 ps-0 pb-0">
                       <strong class="text-dark text-sm">Social:</strong> &nbsp;
                       <a class="btn btn-facebook btn-simple mb-0 ps-1 pe-2 py-0" href="javascript:;">
@@ -396,7 +396,7 @@
                   <ul class="list-group">
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2 pt-0">
                       <div class="avatar me-3">
-                        <img src="../Admin/assets/img/kal-visuals-square.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin-section/assets/img/kal-visuals-square.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Sophie B.</h6>
@@ -406,7 +406,7 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
                       <div class="avatar me-3">
-                        <img src="../Admin/assets/img/marie.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin-section/assets/img/marie.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Anne Marie</h6>
@@ -416,7 +416,7 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
                       <div class="avatar me-3">
-                        <img src="../Admin/assets/img/ivana-square.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin-section/assets/img/ivana-square.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Ivanna</h6>
@@ -424,9 +424,9 @@
                       </div>
                       <a class="btn btn-link pe-3 ps-0 mb-0 ms-auto w-25 w-md-auto" href="javascript:;">Reply</a>
                     </li>
-                    <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
+                    <!-- <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
                       <div class="avatar me-3">
-                        <img src="../Admin/assets/img/team-4.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin-section/assets/img/team-4.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Peterson</h6>
@@ -436,14 +436,14 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0">
                       <div class="avatar me-3">
-                        <img src="../Admin/assets/img/team-3.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin-section/assets/img/team-3.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Nick Daniel</h6>
                         <p class="mb-0 text-xs">Hi! I need more information..</p>
                       </div>
                       <a class="btn btn-link pe-3 ps-0 mb-0 ms-auto w-25 w-md-auto" href="javascript:;">Reply</a>
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
               </div>
