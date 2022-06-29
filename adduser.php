@@ -49,14 +49,14 @@
             <span class="nav-link-text ms-1">Tables</span>
           </a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link text-white " href="./billing.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">receipt_long</i>
             </div>
             <span class="nav-link-text ms-1">Billing</span>
           </a>
-        </li>
+        </li> -->
         
         <!-- <li class="nav-item">
           <a class="nav-link text-white " href="./notifications.php">
@@ -144,10 +144,10 @@
       <div class="page-header min-vh-100">
         <div class="container">
           <div class="row">
-            <!-- <div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 start-0 text-center justify-content-center flex-column">
-              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center" style="background-image: url('/assets/img/jonas-8NIqTFLcFms-unsplash.jpg'); background-size: cover;">
+            <div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 start-0 text-center justify-content-center flex-column">
+              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center" style="background-image: url('../Admin-section/assets/img/jonas-8NIqTFLcFms-unsplash.jpg'); background-size: cover;">
               </div>
-            </div> -->
+            </div>
             <!-- <div class="col-xs-4"><img id="img" src="/assets/img/jonas-8NIqTFLcFms-unsplash.jpg" class="img-responsive img-rounded"  ms-auto me-auto ms-lg-auto me-lg-5/></div> -->
             <div class="col-xl-4 col-lg-5 col-md-7 d-flex flex-column ms-auto">
               <div class="card card-plain">

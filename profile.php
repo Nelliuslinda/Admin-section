@@ -65,14 +65,14 @@
             <span class="nav-link-text ms-1">Tables</span>
           </a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link text-white " href="./billing.php">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">receipt_long</i>
             </div>
             <span class="nav-link-text ms-1">Billing</span>
           </a>
-        </li>
+        </li> -->
      
         <!-- <li class="nav-item">
           <a class="nav-link text-white " href="./notifications.php">
@@ -249,14 +249,14 @@
     </nav>
     <!-- End Navbar -->
     <div class="container-fluid px-2 px-md-4">
-      <div class="page-header min-height-300 border-radius-xl mt-4" style="background-image: url('https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80');">
+      <div class="page-header min-height-300 border-radius-xl mt-4" style="background-image: url('../Admin-section/assets/img/isak-pettersson-74KBzUjqOlk-unsplash.jpg');">
         <span class="mask  bg-gradient-primary  opacity-6"></span>
       </div>
       <div class="card card-body mx-3 mx-md-4 mt-n6">
         <div class="row gx-4 mb-2">
           <div class="col-auto">
             <div class="avatar avatar-xl position-relative">
-              <img src="../assets/img/bruce-mars.jpg" alt="profile_image" class="w-100 border-radius-lg shadow-sm">
+              <img src="../Admin-section/assets/img/bruce-mars.jpg" alt="profile_image" class="w-100 border-radius-lg shadow-sm">
             </div>
           </div>
           <div class="col-auto my-auto">
@@ -396,7 +396,7 @@
                   <ul class="list-group">
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2 pt-0">
                       <div class="avatar me-3">
-                        <img src="../assets/img/kal-visuals-square.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin/assets/img/kal-visuals-square.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Sophie B.</h6>
@@ -406,7 +406,7 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
                       <div class="avatar me-3">
-                        <img src="../assets/img/marie.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin/assets/img/marie.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Anne Marie</h6>
@@ -416,7 +416,7 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
                       <div class="avatar me-3">
-                        <img src="../assets/img/ivana-square.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin/assets/img/ivana-square.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Ivanna</h6>
@@ -426,7 +426,7 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2">
                       <div class="avatar me-3">
-                        <img src="../assets/img/team-4.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin/assets/img/team-4.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Peterson</h6>
@@ -436,7 +436,7 @@
                     </li>
                     <li class="list-group-item border-0 d-flex align-items-center px-0">
                       <div class="avatar me-3">
-                        <img src="../assets/img/team-3.jpg" alt="kal" class="border-radius-lg shadow">
+                        <img src="../Admin/assets/img/team-3.jpg" alt="kal" class="border-radius-lg shadow">
                       </div>
                       <div class="d-flex align-items-start flex-column justify-content-center">
                         <h6 class="mb-0 text-sm">Nick Daniel</h6>
@@ -458,20 +458,20 @@
                   <div class="card card-blog card-plain">
                     <div class="card-header p-0 mt-n4 mx-3">
                       <a class="d-block shadow-xl border-radius-xl">
-                        <img src="../" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
+                        <img src="../Admin-section/assets/img/ladimir-ladroid-_2vtmKYmsW4-unsplash.jpg" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
                       </a>
                     </div>
                     <div class="card-body p-3">
                       <p class="mb-0 text-sm">Toyota Prado</p>
                       <a href="javascript:;">
                         <h5>
-                          Modern
+                          Prado VX
                         </h5>
                       </a>
                       <p class="mb-4 text-sm">
-                        Lorem Impsum
+                        KES 5,000,000
                       </p>
-                      <div class="d-flex align-items-center justify-content-between">
+                      <!-- <div class="d-flex align-items-center justify-content-between">
                         <button type="button" class="btn btn-outline-primary btn-sm mb-0">View Project</button>
                         <div class="avatar-group mt-2">
                           <a href="javascript:;" class="avatar avatar-xs rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Elena Morison">
@@ -487,7 +487,7 @@
                             <img alt="Image placeholder" src="../assets/img/team-4.jpg">
                           </a>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>
@@ -495,20 +495,20 @@
                   <div class="card card-blog card-plain">
                     <div class="card-header p-0 mt-n4 mx-3">
                       <a class="d-block shadow-xl border-radius-xl">
-                        <img src="../" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
+                        <img src="../Admin-section/assets/img/ladimir-ladroid-_2vtmKYmsW4-unsplash.jpg" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
                       </a>
                     </div>
                     <div class="card-body p-3">
                       <p class="mb-0 text-sm">Toyota Prado</p>
                       <a href="javascript:;">
                         <h5>
-                          Modern
+                          Prado GXL
                         </h5>
                       </a>
                       <p class="mb-4 text-sm">
-                        Lorem Impsum
+                        KES 4,400,000
                       </p>
-                      <div class="d-flex align-items-center justify-content-between">
+                      <!-- <div class="d-flex align-items-center justify-content-between">
                         <button type="button" class="btn btn-outline-primary btn-sm mb-0">View Project</button>
                         <div class="avatar-group mt-2">
                           <a href="javascript:;" class="avatar avatar-xs rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Elena Morison">
@@ -524,7 +524,7 @@
                             <img alt="Image placeholder" src="../assets/img/team-4.jpg">
                           </a>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>
@@ -532,20 +532,20 @@
                   <div class="card card-blog card-plain">
                     <div class="card-header p-0 mt-n4 mx-3">
                       <a class="d-block shadow-xl border-radius-xl">
-                        <img src="../" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
+                        <img src="../Admin-section/assets/img/ladimir-ladroid-_2vtmKYmsW4-unsplash.jpg" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
                       </a>
                     </div>
                     <div class="card-body p-3">
                       <p class="mb-0 text-sm">Toyota Prado</p>
                       <a href="javascript:;">
                         <h5>
-                          Modern
+                          Prado GX
                         </h5>
                       </a>
                       <p class="mb-4 text-sm">
-                        Lorem Impsum
+                        KES 3,600,OOO
                       </p>
-                      <div class="d-flex align-items-center justify-content-between">
+                      <!-- <div class="d-flex align-items-center justify-content-between">
                         <button type="button" class="btn btn-outline-primary btn-sm mb-0">View Project</button>
                         <div class="avatar-group mt-2">
                           <a href="javascript:;" class="avatar avatar-xs rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Elena Morison">
@@ -561,7 +561,7 @@
                             <img alt="Image placeholder" src="../assets/img/team-4.jpg">
                           </a>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>
@@ -569,20 +569,20 @@
                   <div class="card card-blog card-plain">
                     <div class="card-header p-0 mt-n4 mx-3">
                       <a class="d-block shadow-xl border-radius-xl">
-                        <img src="../" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
+                        <img src="../Admin-section/assets/img/ladimir-ladroid-_2vtmKYmsW4-unsplash.jpg" alt="img-blur-shadow" class="img-fluid shadow border-radius-xl">
                       </a>
                     </div>
                     <div class="card-body p-3">
                       <p class="mb-0 text-sm">Toyota Prado</p>
                       <a href="javascript:;">
                         <h5>
-                          Modern
+                          Prado TX
                         </h5>
                       </a>
                       <p class="mb-4 text-sm">
-                        Lorem Impsum
+                        KES 2,400,000
                       </p>
-                      <div class="d-flex align-items-center justify-content-between">
+                      <!-- <div class="d-flex align-items-center justify-content-between">
                         <button type="button" class="btn btn-outline-primary btn-sm mb-0">View Project</button>
                         <div class="avatar-group mt-2">
                           <a href="javascript:;" class="avatar avatar-xs rounded-circle" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Elena Morison">
@@ -598,7 +598,7 @@
                             <img alt="Image placeholder" src="../assets/img/team-4.jpg">
                           </a>
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>
